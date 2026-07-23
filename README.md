@@ -1,4 +1,4 @@
-#MY first Ai bot using OpenAi and openrouter
+#My first AI bot using OpenAi and OpenRouter
 
 ###Prerequisites
 * Python 3.10+ installed 
@@ -8,7 +8,7 @@
 
 ###Step to How to run it
 1. For Html ```git clone https://github.com/prashant679/first_ai_bot.git`` 
-or
+or/
 for ssh ```git clone git@github.com:prashant679/first_ai_bot.git```
 
 2. 
